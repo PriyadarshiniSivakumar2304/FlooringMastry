@@ -1,0 +1,3 @@
+State,Abbreviation,TaxRate
+California,CA,7.25
+Texas,TX,6.25
