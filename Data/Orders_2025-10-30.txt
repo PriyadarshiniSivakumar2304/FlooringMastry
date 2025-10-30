@@ -1,2 +1,3 @@
 OrderDate,OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
 2025-10-30,2,Priya,TX,4.45,Wood,24,5.15,4.75,123.60,114.00,10.57,248.17
+2025-10-30,3,Priya,TX,4.45,Wood,4,5.15,4.75,20.60,19.00,1.76,41.36
